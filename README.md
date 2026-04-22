@@ -3,7 +3,7 @@
 I build AI systems, mobile products, and developer tooling.
 
 Current focus:
-- [ThumbGate](https://github.com/IgorGanapolsky/ThumbGate) - self-improving agent governance that turns thumbs-up/down feedback into pre-action gates that block repeat AI mistakes
+- [ThumbGate.ai](https://www.thumbgate.ai) - self-improving agent governance that turns thumbs-up/down feedback into pre-action gates that block repeat AI mistakes
 - [Random-Timer](https://github.com/IgorGanapolsky/Random-Timer) - native iOS and Android reaction timer for combat sports, BJJ, boxing, and HIIT
 - [openclaw-console](https://github.com/IgorGanapolsky/openclaw-console) - native mobile console for monitoring and approving agent actions
 - [trading](https://github.com/IgorGanapolsky/trading) - paper-first SPY options validation platform with hard risk controls and broker-backed scorecards
@@ -19,7 +19,7 @@ Current focus:
 
 | Project | What it does |
 | --- | --- |
-| [ThumbGate](https://github.com/IgorGanapolsky/ThumbGate) | Governance layer for AI agents: user feedback becomes enforcement that prevents repeated mistakes |
+| [ThumbGate.ai](https://www.thumbgate.ai) | Governance layer for AI agents: user feedback becomes enforcement that prevents repeated mistakes |
 | [Random-Timer](https://github.com/IgorGanapolsky/Random-Timer) | Mobile training timer built for combat sports and interval work |
 | [openclaw-console](https://github.com/IgorGanapolsky/openclaw-console) | Native mobile console for monitoring and approving agent actions |
 | [trading](https://github.com/IgorGanapolsky/trading) | Options research and validation platform with risk gates, scorecards, and live dashboards |
@@ -33,4 +33,4 @@ Current focus:
 ## Contact
 
 - Email: [igor@igorganapolsky.com](mailto:igor@igorganapolsky.com)
-- Product: [thumbgate-production.up.railway.app](https://thumbgate-production.up.railway.app)
+- Product: [www.thumbgate.ai](https://www.thumbgate.ai)
