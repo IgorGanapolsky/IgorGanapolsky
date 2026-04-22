@@ -4,8 +4,9 @@ I build AI systems, mobile products, and developer tooling.
 
 Current focus:
 - [ThumbGate](https://github.com/IgorGanapolsky/ThumbGate) - self-improving agent governance that turns thumbs-up/down feedback into pre-action gates that block repeat AI mistakes
-- [trading](https://github.com/IgorGanapolsky/trading) - paper-first SPY options validation platform with hard risk controls and broker-backed scorecards
 - [Random-Timer](https://github.com/IgorGanapolsky/Random-Timer) - native iOS and Android reaction timer for combat sports, BJJ, boxing, and HIIT
+- [openclaw-console](https://github.com/IgorGanapolsky/openclaw-console) - native mobile console for monitoring and approving agent actions
+- [trading](https://github.com/IgorGanapolsky/trading) - paper-first SPY options validation platform with hard risk controls and broker-backed scorecards
 
 ## What I work on
 
@@ -19,10 +20,9 @@ Current focus:
 | Project | What it does |
 | --- | --- |
 | [ThumbGate](https://github.com/IgorGanapolsky/ThumbGate) | Governance layer for AI agents: user feedback becomes enforcement that prevents repeated mistakes |
-| [trading](https://github.com/IgorGanapolsky/trading) | Options research and validation platform with risk gates, scorecards, and live dashboards |
-| [openclaw-console](https://github.com/IgorGanapolsky/openclaw-console) | Native mobile console for monitoring and approving agent actions |
-| [storage-scout](https://github.com/IgorGanapolsky/storage-scout) | AI visibility and answer-engine optimization platform |
 | [Random-Timer](https://github.com/IgorGanapolsky/Random-Timer) | Mobile training timer built for combat sports and interval work |
+| [openclaw-console](https://github.com/IgorGanapolsky/openclaw-console) | Native mobile console for monitoring and approving agent actions |
+| [trading](https://github.com/IgorGanapolsky/trading) | Options research and validation platform with risk gates, scorecards, and live dashboards |
 
 ## Background
 
