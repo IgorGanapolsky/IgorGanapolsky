@@ -30,6 +30,11 @@ Referral disclosure: I receive $10 cash if you sign up and become a paying user;
 | [openclaw-console](https://github.com/IgorGanapolsky/openclaw-console) | Native mobile console for monitoring and approving agent actions |
 | [trading](https://github.com/IgorGanapolsky/trading) | Options research and validation platform with risk gates, scorecards, and live dashboards |
 
+## Cloud & model infrastructure
+
+- **Local execution & RTH surveillance**: Apple Silicon local Python runtime (`scripts/local_trading_sentinel.py`).
+- **Batch Walk-Forward, Monte Carlo & Context Memory**: [Tencent Cloud](https://www.tencentcloud.com/) Lighthouse / CVM (`SA5` / `SA9` in `ap-hongkong` & `ap-singapore`) and Tencent Hunyuan (`Hy-Memory-30B-A3B` surgical state-patching pattern and OpenAI-compatible gateway).
+
 ## Background
 
 - 15+ years shipping software
