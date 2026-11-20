@@ -47,3 +47,7 @@ Referral disclosure: I receive $10 cash if you sign up and become a paying user;
 - Email: [igor@igorganapolsky.com](mailto:igor@igorganapolsky.com)
 - LinkedIn: [linkedin.com/in/igor-ganapolsky-664324431](https://www.linkedin.com/in/igor-ganapolsky-664324431/)
 - Product: [www.thumbgate.ai](https://www.thumbgate.ai)
+
+## Support my work
+
+If my projects help you, [buy me a coffee](https://buymeacoffee.com/IgorGanapolsky). Support funds the open-source work.
