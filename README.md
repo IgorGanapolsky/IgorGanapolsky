@@ -15,12 +15,6 @@ Current focus:
 - Applied AI/ML systems that have to survive real users and real operations
 - Productized developer tools with strong operational guardrails
 
-## AI workspace
-
-I use [Zo Computer](https://zo-computer.cello.so/ZrfrqezilwD) as a personal cloud computer for AI-assisted work with files, connected tools, automations, and hosted projects.
-
-Referral disclosure: I receive $10 cash if you sign up and become a paying user; you receive $10 in Zo credits.
-
 ## Featured projects
 
 | Project | What it does |
@@ -50,4 +44,4 @@ Referral disclosure: I receive $10 cash if you sign up and become a paying user;
 
 ## Support my work
 
-If my projects help you, [buy me a coffee](https://buymeacoffee.com/IgorGanapolsky). Support funds the open-source work.
+If my projects help you, you can [buy me a coffee](https://buymeacoffee.com/IgorGanapolsky).
